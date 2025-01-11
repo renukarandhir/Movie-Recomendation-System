@@ -13,7 +13,10 @@ A public dataset, such as TMDB 5000 Movie Dataset, containing metadata for Engli
 1. Data Preprocessing: Cleans and prepares movie data, extracting key features like genres, cast, and keywords.
 2. Text Vectorization: Converts textual data into numeric vectors using Count Vectorization.
 3. Similarity Computation: Uses Cosine Similarity to find movies similar to a user’s input.
-4. Recommendation Generation: Displays a list of similar movies
+4. Recommendation Generation: Displays a list of similar movies.
+
+# Images
+![Movie Recommendation System output](Frontend.png)
 
 # Installation and Usage
 1. Clone this repository:
